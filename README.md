@@ -67,4 +67,4 @@ El sistema está diseñado para ser utilizado por equipos de trabajo que necesit
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/usuario/proyecto-administracion.git
+   git clone git@github.com:daniel-alegria3/AdminProyectos.git
